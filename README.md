@@ -30,9 +30,9 @@ Harisundar S</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1wDkt1NzAb0PSD4PCSx8DlI8237GcYQ5f/view?usp=sharing"><img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
-
+</br>
 </p>
-##Language and tools##
+###Language and tools
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp; 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
