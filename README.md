@@ -22,7 +22,7 @@
 <h3 align="center"> 👥 Connect with me 🤝</h3>
 <p align="center">
  <div align="center"  class="icons-social">
-        <a target="_blank" href="https://www.linkedin.com/in/harisundar-s-50b12a23a">
+        <a target="_blank" href="https://www.linkedin.com/in/harisundar-sivakumar-50b12a23a/">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
         </a>
         <a target="_blank" href="https://github.com/Cyberfreak08">
