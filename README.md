@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://Cyberfreak08.github.io/Me.io/" target="blank">Harisundar S</a></h1>
-<h3 align="center">A Passionate Full-Stack Developer from Tamil Nadu, India 🇮🇳</h3>
+<h3 align="center">A Passionate Front-End Developer from Tamil Nadu, India 🇮🇳</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔬 I’m currently working as a **Full-Stack Developer** at **IBM, Mysore**
+- 🔬 I’m currently working as a **Front-End Developer** at **IBM, Mysore**
 
 - 💡 I have experience working with **React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, and Prisma**
 
